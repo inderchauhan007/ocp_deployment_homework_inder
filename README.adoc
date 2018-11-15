@@ -1,5 +1,5 @@
 Openshift Deployment - Inder
-Use the files in this repo to guide you on your way to creating
+Use the files in this repo to create
 a fully automated deployment of OpenShift.
 
 
